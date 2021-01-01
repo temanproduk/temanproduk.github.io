@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Product Development",
+    "id": "product_development",
+    "disable": false
+  },
+  {
+    "label": "Strategy",
+    "id": "strategy",
+    "disable": false
+  },
+  {
+    "label": "Operation",
+    "id": "operation",
+    "disable": false
+  },
+  {
+    "label": "Leadership",
+    "id": "leadership",
+    "disable": false
+  }
+]

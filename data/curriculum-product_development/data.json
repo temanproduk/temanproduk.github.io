@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Problem Discovery",
+    "id": "problem_discovery",
+    "curriculum_id": "product_development",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "disable": false
+  },
+  {
+    "label": "Solution Ideation",
+    "id": "solution_ideation",
+    "curriculum_id": "product_development",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "disable": false
+  },
+  {
+    "label": "Prioritization",
+    "id": "prioritization",
+    "curriculum_id": "product_development",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "disable": false
+  },
+  {
+    "label": "Project Management",
+    "id": "project_management",
+    "curriculum_id": "product_development",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "disable": false
+  }
+]

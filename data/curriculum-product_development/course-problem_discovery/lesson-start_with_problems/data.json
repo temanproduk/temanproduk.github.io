@@ -1,0 +1,42 @@
+[
+  {
+    "type": "plain",
+    "image": "./images/start_with_problems-1.png",
+    "contents": "Bulan ini adalah bulan keenam Olivia bekerja di Toko Teman, sebuah startup early stage yang berdiri sejak 1,5 tahun lalu. Di sini, Olivia bekerja sebagai UI Designer untuk aplikasi marketplace yang dikembangkan perusahaan.",
+    "id": "1",
+    "lesson_id": "start_with_problems"
+  },
+  {
+    "type": "plain",
+    "image": null,
+    "contents": "Aplikasi Toko Teman sudah launching sejak 9 bulan yang lalu, namun saat ini penggunanya masih sedikit. Kurang lebih hanya 100+ downloads di Android Play Store. Analisis requirement produk Toko Teman dipercayakan pada senior Olivia, seorang ex-Marketing yang berambisi untuk membuat fitur aplikasi yang kompleks dan tidak kalah canggih dengan aplikasi kompetitor yang sudah lama berdiri.",
+    "id": "2",
+    "lesson_id": "start_with_problems"
+  },
+  {
+    "type": "mix_match",
+    "image": null,
+    "contents": "Sehari-hari, Olivia diminta oleh senior-nya untuk membuat tampilan UI design dari fitur diinginkan. Sebagai seorang designer berpengalaman, Olivia membuat tampilan design hi-fi dengan cepat, untuk di hand-over ke tim Programmer.",
+    "id": "3",
+    "lesson_id": "start_with_problems",
+    "terms": [
+      "Low Fidelity",
+      "Mid Fidelity",
+      "High Fidelity"
+    ],
+    "definitions": [
+      {
+        "text": "Tampilan kasar dalam bentuk sketsa wireframe yang menggambarkan struktur layout dari design",
+        "correct_order": 0
+      },
+      {
+        "text": "Tampilan representatif dari fitur produk yang mau dibuat, sudah lengkap dengan warna dan icon, tetapi masih belum layak tampil",
+        "correct_order": 1
+      },
+      {
+        "text": "Tampilan prototipe yang sudah siap di develop oleh tim pengembang, lengkap dengan workflow interaksi antar layar",
+        "correct_order": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Start with Problems",
+    "id": "start_with_problems",
+    "course_id": "product_discovery",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "disable": false
+  },
+  {
+    "label": "Customer Journey Mapping",
+    "id": "customer_journey_mapping",
+    "course_id": "product_discovery",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "disable": false
+  },
+  {
+    "label": "User Research",
+    "id": "user_research",
+    "course_id": "product_discovery",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "disable": false
+  },
+  {
+    "label": "Market Research",
+    "id": "market_research",
+    "course_id": "product_discovery",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "disable": false
+  }
+]
