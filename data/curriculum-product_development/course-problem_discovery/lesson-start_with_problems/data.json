@@ -2,14 +2,14 @@
   {
     "type": "plain",
     "image": "images/1.png",
-    "content": "Bulan ini adalah bulan keenam Olivia bekerja di Toko Teman, sebuah startup early stage yang berdiri sejak 1,5 tahun lalu. Di sini, Olivia bekerja sebagai UI Designer untuk aplikasi marketplace yang dikembangkan perusahaan.",
+    "content": "Bulan ini adalah bulan keenam Olivia bekerja di **Toko Teman**, sebuah startup early stage yang berdiri sejak 1,5 tahun lalu. Di sini, Olivia bekerja sebagai UI Designer untuk aplikasi marketplace yang dikembangkan perusahaan.",
     "id": "1",
     "lesson_id": "start_with_problems"
   },
   {
     "type": "plain",
     "image": null,
-    "content": "Aplikasi Toko Teman sudah launching sejak 9 bulan yang lalu, namun saat ini penggunanya masih sedikit. Kurang lebih hanya 100+ downloads di Android Play Store. Analisis requirement produk Toko Teman dipercayakan pada senior Olivia, seorang ex-Marketing yang berambisi untuk membuat fitur aplikasi yang kompleks dan tidak kalah canggih dengan aplikasi kompetitor yang sudah lama berdiri.",
+    "content": "Aplikasi **Toko Teman** sudah launching sejak 9 bulan yang lalu, namun saat ini penggunanya masih sedikit. Kurang lebih hanya 100+ downloads di Android Play Store.\n\n Analisis requirement produk **Toko Teman** dipercayakan pada senior Olivia, seorang ex-Marketing yang berambisi untuk membuat fitur aplikasi yang kompleks dan tidak kalah canggih dengan aplikasi kompetitor yang sudah lama berdiri.",
     "id": "2",
     "lesson_id": "start_with_problems"
   },
@@ -38,5 +38,33 @@
         "correct_order": 2
       }
     ]
+  },
+  {
+    "type": "plain",
+    "image": "images/4.png",
+    "content": "Dalam pengembangan suatu fitur aplikasi, tim programmer memerlukan waktu untuk memikirkan mengenai arsitektur dari software-nya. Umumnya, semakin kompleks sebuah fitur, akan memerlukan waktu lebih lama untuk dibuat.\n\nSelain itu, jika aplikasi sudah dibuat kompleks di awal, akan lebih sulit untuk dirombak jika ada perubahan strategi yang cukup fundamental pada software-nya.",
+    "id": "4",
+    "lesson_id": "start_with_problems"
+  },
+  {
+    "type": "plain",
+    "image": "images/5.png",
+    "content": "Melihat aplikasi belum mendapatkan jumlah pengguna yang memuaskan, CEO Toko Teman mengumpulkan tim produk-nya untuk mendiskusikan perihal ini.\n\nSang senior, karena merasa yakin dengan rencananya, dia tidak merasa ada yang salah dengan pendekatan yang dibuat. Alih-alih, dia berkelit penyebab aplikasinya tidak banyak di download ialah karena tampilan design yang dibuat Olivia terlalu simple dan tidak mewah.",
+    "id": "5",
+    "lesson_id": "start_with_problems"
+  },
+  {
+    "type": "choice",
+    "image": null,
+    "content": "Dalam sebuah perusahaan rintisan, setiap pegawai seringkali diminta untuk mengerjakan lebih dari 1 jenis pekerjaan. Secara umum, berikut ialah beberapa kategori yang termasuk dalam peran di perusahaan rintisan:",
+    "id": "6",
+    "lesson_id": "start_with_problems",
+    "choices": [
+      "Hustler",
+      "Hipster",
+      "Heroes",
+      "Hacker"
+    ],
+    "answers": [0,1,3]
   }
 ]
