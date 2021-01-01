@@ -1,43 +1,50 @@
 [
   {
-    "label": "Start with Problems",
-    "id": "start_with_problems",
-    "course_id": "problem_discovery",
+    "label": "Value Proposition Canvas",
+    "id": "value_proposition_canvas",
+    "course_id": "solution_ideation",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
     "disable": false
   },
   {
-    "label": "Customer Journey Mapping",
-    "id": "customer_journey_mapping",
-    "course_id": "problem_discovery",
+    "label": "Competitor Features Analysis",
+    "id": "competitor_features_analysis",
+    "course_id": "solution_ideation",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
     "disable": false
   },
   {
-    "label": "User Research",
-    "id": "user_research",
-    "course_id": "problem_discovery",
+    "label": "Brainstorming",
+    "id": "brainstorming",
+    "course_id": "solution_ideation",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
     "disable": false
   },
   {
-    "label": "Market Research",
-    "id": "market_research",
-    "course_id": "problem_discovery",
+    "label": "Design Sprint",
+    "id": "design_sprint",
+    "course_id": "solution_ideation",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
     "disable": false
   },
   {
-    "label": "Operational Research",
-    "id": "operational_research",
-    "course_id": "problem_discovery",
+    "label": "Usability Test",
+    "id": "usability_test",
+    "course_id": "solution_ideation",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
     "disable": false
   },
   {
-    "label": "Hypothesis vs Facts",
-    "id": "hypothesis_vs_facts",
-    "course_id": "problem_discovery",
+    "label": "Solution Sandboxing",
+    "id": "solution_sandboxing",
+    "course_id": "solution_ideation",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "disable": false
+  },
+  {
+    "label": "Conducting Product Experiment",
+    "id": "conducting_product_experiment",
+    "course_id": "solution_ideation",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
     "disable": false
   }
