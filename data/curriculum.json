@@ -7,16 +7,16 @@
   {
     "label": "Strategy",
     "id": "strategy",
-    "disable": false
+    "disable": true
   },
   {
     "label": "Operation",
     "id": "operation",
-    "disable": false
+    "disable": true
   },
   {
     "label": "Leadership",
     "id": "leadership",
-    "disable": false
+    "disable": true
   }
 ]
