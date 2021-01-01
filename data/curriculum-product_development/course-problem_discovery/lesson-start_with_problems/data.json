@@ -59,6 +59,7 @@
     "content": "Dalam sebuah perusahaan rintisan, setiap pegawai seringkali diminta untuk mengerjakan lebih dari 1 jenis pekerjaan. Secara umum, berikut ialah beberapa kategori yang termasuk dalam peran di perusahaan rintisan:",
     "id": "6",
     "lesson_id": "start_with_problems",
+    "question": null,
     "choices": [
       "Hustler",
       "Hipster",
@@ -66,5 +67,92 @@
       "Hacker"
     ],
     "answers": [0,1,3]
+  },
+  {
+    "type": "plain",
+    "image": null,
+    "content": "Dari hasil meeting tim produk yang sebelumnya, Olivia berusaha mencari tahu apa yang salah dengan design yang dia buat. Untuk itu, dia bertanya kepada rekan-rekan di komunitas designer produk untuk mencari feedback atas desainnya.\n\nOlivia masih yakin bahwa tampilan simple yang dibuatnya bukanlah penyebab dari tidak datangnya pengguna aplikasi. Malahan, berdasarkan prinsip design yang dia tahu, membuat tampilan secara sederhana akan membantu memudahkan pemahaman pengguna akan suatu aplikasi.",
+    "id": "7",
+    "lesson_id": "start_with_problems"
+  },
+  {
+    "type": "plain",
+    "image": "images/8.png",
+    "content": "Alih-alih mendapatkan feedback mengenai design yang dibuat, rekan-rekan di komunitas malah banyak yang bertanya balik kepada Olivia perihal siapa target marketnya dan mengapa aplikasi tersebut dibuat. Untuk memberikan feedback yang konstruktif, mereka perlu memahami apa problem yang ingin diselesaikan oleh aplikasi **Toko Teman**.\n\nDari sini, Olivia baru sadar kalau aplikasi yang dibuatnya itu tidak jelas target market dan apa problem statement-nya. Hmmm, sepertinya ada yang salah dengan pendekatan Product Development nya...",
+    "id": "8",
+    "lesson_id": "start_with_problems"
+  },
+  {
+    "type": "boolean",
+    "image": null,
+    "content": null,
+    "question": null,
+    "questions": [
+      {
+        "title": "Fitur deteksi humidity pada low-cost Handphone",
+        "choices": {
+          "yes": "Solusi untuk problem yang valid",
+          "no": "Solusi untuk problem yang kurang jelas"
+        },
+        "answer": "no"
+      },
+      {
+        "title": "Fitur Live Streaming pada aplikasi e-wallet",
+        "choices": {
+          "yes": "Solusi untuk problem yang valid",
+          "no": "Solusi untuk problem yang kurang jelas"
+        },
+        "answer": "no"
+      },
+      {
+        "title": "Fitur Pilih Video Favorite pada aplikasi video streaming yang menampilkan jutaan video",
+        "choices": {
+          "yes": "Solusi untuk problem yang valid",
+          "no": "Solusi untuk problem yang kurang jelas"
+        },
+        "answer": "yes"
+      }
+    ],
+    "id": "9",
+    "lesson_id": "start_with_problems"
+  },
+  {
+    "type": "plain",
+    "image": "images/10.png",
+    "content": "Merasa ada yang salah dengan pendekatan pengembangan produk perusahaan-nya, Olivia berusaha meyakinkan seniornya serta CEO perusahaan agar mereka perlu fokus untuk mencari tahu siapa target market-nya dan apa masalah yang dihadapi mereka; lalu, timnya hanya perlu mengembangkan fitur-fitur yang bisa menyelesaikan masalah tersebut saja.\n\nHal ini berarti mengesampingkan ide pengembangan fitur-fitur canggih yang diharapkan seniornya. Dia tidak setuju dengan ide Olivia!",
+    "id": "10",
+    "lesson_id": "start_with_problems"
+  },
+  {
+    "type": "choice",
+    "image": "images/11.png",
+    "content": "Di tengah perdebatan mengenai bagaimana seharusnya produk ini dikembangkan, sang CEO lebih setuju dng pendekatan Olivia. Kemudian Olivia diminta untuk melakukan research mengenai siapa target market company dan apa permasalahan mereka.",
+    "id": "11",
+    "lesson_id": "start_with_problems",
+    "question": "Apa tujuan dibuatnya sebuah produk dalam suatu perusahaan?",
+    "choices": [
+      "Untuk memberikan solusi buat pelanggan perusahaan",
+      "Untuk menjadi kebanggaan para founder",
+      "Sebagai media untuk menghasilkan profit",
+      "Agar menciptakan sebuah value yang bisa ditukar dengan uang oleh penggunanya",
+      "Sebagai alat untuk menjalankan misi perusahaan"
+    ],
+    "answers": [0,2,3,4]
+  },
+  {
+    "type": "choice",
+    "image": null,
+    "content": "Olivia kemudian mencari tahu mengenai pengguna aplikasi dan permasalahan mereka melalui beberapa sumber referensi. Apa saja sumber referensi yang bisa diakses oleh Olivia.",
+    "id": "12",
+    "lesson_id": "start_with_problems",
+    "question": null,
+    "choices": [
+      "Ulasan di App Store",
+      "Keluhan Pengguna di Social Media",
+      "Pendapat CEO",
+      "Interview Pengguna",
+      "Survey Pengguna"
+    ],
+    "answers": [0,1,3,4]
   }
 ]
