@@ -5,8 +5,18 @@
     "disable": false
   },
   {
-    "label": "Strategy",
-    "id": "strategy",
+    "label": "Design Thinking",
+    "id": "design_thinking",
+    "disable": true
+  },
+  {
+    "label": "Entrepreneurship",
+    "id": "entrepreneurship",
+    "disable": true
+  },
+  {
+    "label": "Marketing",
+    "id": "marketing",
     "disable": true
   },
   {
@@ -15,8 +25,8 @@
     "disable": true
   },
   {
-    "label": "Leadership",
-    "id": "leadership",
+    "label": "Finance",
+    "id": "finance",
     "disable": true
   }
 ]
