@@ -1,106 +1,201 @@
 [
   {
     "type": "plain",
-    "image": null,
-    "content": "",
+    "image": "images/1.png",
+    "content": "Sebagai pimpinan tim pengembang Produk pada sebuah startup *online travel agent* berlabel *Unicorn*, Andi merasa dirinya harus bertanggung jawab memberikan navigasi arah pengembangan produk dalam kondisi krisis akibat pandemi. \n\nTahun ini merupakan momen yang paling berat buat **Teman Jalan**, perusahaan startup tempat Andi bekerja selama 5 tahun belakangan, karena efek awal pandemi membuat semua *metrics* yang dianggap penting oleh perusahaan jadi *drop* lebih dari 75%.",
     "id": "1",
     "lesson_id": "customer_journey_mapping"
   },
   {
-    "type": "plain",
+    "type": "mix_match",
     "image": null,
-    "content": "",
+    "content": "Di **Teman Jalan**, Andi dipercaya oleh para pendiri perusahaan menjadi Director of Product Development, role yang setara dengan Head of Product, setelah meniti karir dari seorang Product Manager dan membantu membangun aplikasi **Teman Jalan** menjadi sebesar sekarang.\n\nBisakah kamu mencocokan peran dalam tim Produk berikut dengan tanggung jawabnya:",
     "id": "2",
-    "lesson_id": "customer_journey_mapping"
+    "lesson_id": "customer_journey_mapping",
+    "terms": [
+      "Product Associate",
+      "Product Manager",
+      "Senior Product Manager",
+      "Head of Product",
+      "VP of Product",
+      "Chief of Product"
+    ],
+    "definitions": [
+      {
+        "text": "Seseorang yang dianggap junior, sehingga belum banyak diberi kepercayaan. Umumnya hanya memegang analisa pengembangan fitur dalam suatu produk, atau hanya diminta untuk membantu Product Manager atau Senior PM",
+        "correct_order": 0
+      },
+      {
+        "text": "Peran ini menjadi bridge antara beberapa fungsi seperti Bisnis, Design dan Engineering dalam memastikan terwujudnya suatu Product yang memenuhi tujuan bisnis",
+        "correct_order": 1
+      },
+      {
+        "text": "Seseorang yang sangat berpengalaman mewujudkan product yang berhasil memenuhi suatu tujuan bisnis. Dipercaya oleh atasannya untuk self organised, meskipun begitu dia bukanlah seorang people manager",
+        "correct_order": 2
+      },
+      {
+        "text": "Disebut juga Director of Product, peran ini merupakan people manager untuk beberapa orang Product Manager. Bertanggung jawab untuk satu atau dua lini produk di perusahaan",
+        "correct_order": 3
+      },
+      {
+        "text": "Bertanggung jawab untuk memastikan terbentuknya culture tertentu pada tim Produk, melalui guideline cara kerja dan pembuatan hiring standard. Bertanggung jawab untuk beberapa lini produk di perusahaan",
+        "correct_order": 4
+      },
+      {
+        "text": "Peran ini sangat jarang ada di suatu perusahaan. Umumnya diperlukan jika perusahaan ingin menekankan terjadinya culture “product mindset” sehingga diperlukan seorang “C-level” untuk fungsi product development. Bertanggung jawab atas semua lini produk yang dijalankan perusahaan",
+        "correct_order": 5
+      }
+    ]
   },
   {
     "type": "plain",
-    "image": null,
-    "content": "",
+    "image": "images/3.png",
+    "content": "Di **Teman Jalan**, setiap minggunya diadakan alignment meeting yang dihadiri oleh semua personil *leadership* perusahaan; untuk membahas hal yang krusial maupun sekedar *update status* antar setiap tim.\n\nMeeting kali ini tampak spesial, karena semua orang dibuat bingung dengan efek yang dihasilkan kondisi pandemi. Mereka merasa sangat sulit menentukan apa yang harus dilakukan untuk bisa tetap survive di tengah pandemi.",
     "id": "3",
     "lesson_id": "customer_journey_mapping"
   },
   {
-    "type": "plain",
+    "type": "choice",
     "image": null,
-    "content": "",
+    "content": "Di meeting ini, Andi menjabarkan *impact* pandemi terhadap *metrics* produk **Teman Jalan**. Semua tampak serius dan mengerutkan dahi membaca semua gambar graf berbentuk garis cekung ke bawah.",
     "id": "4",
-    "lesson_id": "customer_journey_mapping"
+    "lesson_id": "customer_journey_mapping",
+    "question": "Mana saja kategori metrics yang dianggap penting dalam sebuah startup?",
+    "choices": [
+      "Acquisition",
+      "Activation",
+      "Acknowledgement",
+      "Retention",
+      "Rejoice",
+      "Refinery",
+      "Revenue",
+      "Referral"
+    ],
+    "choices_definition":[
+      "todo:Penjelasan Acquisition",
+      "todo:Penjelasan Activation",
+      "Meskipun pengakuan akan entitas produk kita penting, tapi ini bukanlah metrics yang perlu dipantau tim produk loh.",
+      "todo:Penjelasan Retention",
+      "Bener sih, kegembiraan pengguna memang perlu, tapi ya ini bukan urusan tim produk juga sih.",
+      "Ya kalau mau raja minyak, urusan Refinery penting banget. Tapi tidak untuk urusan startup",
+      "todo:Penjelasan Revenue",
+      "todo:Penjelasan Referral"
+    ],
+    "answers": [0,1,3,6,7]
   },
   {
     "type": "plain",
     "image": null,
-    "content": "",
+    "content": "Selepas meeting dengan *senior management* di perusahaan, Andi mengumpulkan semua anggota tim produk perusahaan, untuk membahas kondisi spesial ini. Dia meminta agar semua orang berpikir extra untuk mencari cara untuk penyesuaian produk, agar **Teman Jalan** bisa survive di tengah pandemi.",
     "id": "5",
     "lesson_id": "customer_journey_mapping"
   },
   {
     "type": "plain",
-    "image": null,
-    "content": "",
+    "image": "images/6.png",
+    "content": "Di meeting ini, Andi membuat tim produk dibagi menjadi 2 kelompok diskusi, dan setiap kelompok diminta untuk menganalisa dan lebih memahami mengenai para pengguna **Teman Jalan** dalam 2 kondisi; sebelum dan setelah pandemi terjadi.\n\nDia ingin tahu kondisi apa saja yang berubah dari para pelancong target market **Teman Jalan**!",
     "id": "6",
     "lesson_id": "customer_journey_mapping"
   },
   {
     "type": "plain",
     "image": null,
-    "content": "",
+    "content": "Sebelum membuat perbaikan dari suatu produk atau proses bisnis, kita perlu lebih dahulu memahami mengenai penggunanya, mencoba berempati apa saja yang dilakukan dan dirasakan mereka ketika menggunakan produk atau proses bisnis tersebut.\n\nDalam disiplin ilmu *User Research*, terdapat sebuah tool yang bisa membantu kita dalam melakukan hal ini, yakni **Customer Journey Mapping**. Dengan ini, kita diminta untuk memvisualisasi setiap interaksi yang dilakukan pengguna dalam mengkonsumsi produk kita. Aktivitas ini membantu kita untuk melihat langkah bisnis dari sudut pandang pengguna.",
     "id": "7",
     "lesson_id": "customer_journey_mapping"
   },
   {
     "type": "plain",
     "image": null,
-    "content": "",
+    "content": "Untuk membuat **Customer Journey Mapping**, kita perlu menuliskan setiap langkah bisnis yang dilakukan oleh pengguna, mulai dari saat *mempertimbangkan* penggunaan produk, *ketika digunakan*, dan *sesaat setelah selesai* digunakan.\n\nKemudian, untuk setiap langkah nya, deskripsikan 4 hal berikut:\n\n1.  Doing: Action apa yang dilakukan pengguna pada langkah ini\n\n2.  Thinking: Hal Apa yang dipikirkan pengguna pada langkah ini\n\n3.  Experience: Bagaimana perasaan pengguna ketika menjalani langkah ini\n\n4.  Opportunity: Beberapa peluang perbaikan (quick win) yang bisa dilakukan untuk meningkatkan kualitas layanan pada langkah ini",
     "id": "8",
     "lesson_id": "customer_journey_mapping"
   },
   {
     "type": "plain",
-    "image": null,
-    "content": "",
+    "image": "images/9.png",
+    "content": "Kurang lebih **Customer Journey Mapping** bisa digambarkan dalam board di atas.\n\n**note**: Lihat juga bahwa section **Experience** juga bisa ditambahkan dengan sebuah smiley yang menggambarkan emosi pengguna pada langkah tersebut",
     "id": "9",
     "lesson_id": "customer_journey_mapping"
   },
   {
-    "type": "plain",
+    "type": "boolean",
     "image": null,
     "content": "",
     "id": "10",
-    "lesson_id": "customer_journey_mapping"
+    "lesson_id": "customer_journey_mapping",
+    "question": "Kira-kira, mana saja hal yang benar dan salah mengenai proses Customer Journey Mapping?",
+    "questions": [
+      {
+        "title": "Customer Journey Mapping digunakan untuk mencari tahu rute perjalanan sehari-hari pengguna",
+        "choices": {
+          "yes": "Benar",
+          "no": "Salah"
+        },
+        "answer": "no"
+      },
+      {
+        "title": "Dalam memetakan aktivitas pengguna, kita perlu membedakan hal yang dilakukan oleh pengguna dan apa yang dipikirkannya, karena seringkali kedua hal ini bertolak belakang",
+        "choices": {
+          "yes": "Benar",
+          "no": "Salah"
+        },
+        "answer": "yes"
+      },
+      {
+        "title": "Pada setiap langkah pengguna, kita bisa melihat peluang perbaikan layanan berdasarkan informasi yang kita dapat dari aktivitas pengguna",
+        "choices": {
+          "yes": "Benar",
+          "no": "Salah"
+        },
+        "answer": "yes"
+      }
+    ]
   },
   {
     "type": "plain",
-    "image": null,
-    "content": "",
+    "image": "images/11.png",
+    "content": "Tim A mempresentasikan **Customer Journey Mapping** dari pengguna **Teman Jalan** sebelum kondisi Pandemi dalam diagram di atas.",
     "id": "11",
     "lesson_id": "customer_journey_mapping"
   },
   {
     "type": "plain",
-    "image": null,
-    "content": "",
+    "image": "images/12.png",
+    "content": "Sementara Tim B menjelaskan perubahan **Customer Journey Mapping** dari pengguna **Teman Jalan** atau *traveler* secara umum setelah pandemi terjadi. Kamu bisa lihat beberapa perubahan mendasar dari aktivitas pengguna pada setiap langkahnya",
     "id": "12",
     "lesson_id": "customer_journey_mapping"
   },
   {
-    "type": "plain",
+    "type": "choice",
     "image": null,
-    "content": "",
+    "content": "Dari sini, Tim produk berdiskusi untuk menyimpulkan beberapa kemungkinan penyesuaian fitur produk yang bisa sejalan dengan perubahan kondisi pengguna.",
     "id": "13",
-    "lesson_id": "customer_journey_mapping"
+    "lesson_id": "customer_journey_mapping",
+    "question": "Berdasarkan Customer Journey Mapping sebelum dan setelah pandemi, kondisi mana yang paling tepat menggambarkan perubahan yang terjadi pada pengguna?",
+    "choices": [
+      "Semenjak pandemi, pengguna kehilangan mata penghasilan yang membuatnya tidak lagi melakukan langkah Discovery tempat liburan",
+      "Pandemi mengubah titik emosi terendah yang dialami pengguna dari langkah Booking, ke langkah Before Trip",
+      "Pengalaman pengguna pada kondisi pandemi ini tidak ada yang menyenangkan dan membuatnya berada pada titik emosi tertinggi"
+    ],
+    "choices_definition":[
+      "Ini salah kemungkinan yang terjadi dari efek pandemi. Namun, dari Customer Journey Mapping yang terbuat, kita tidak bisa mengambil kesimpulan ini",
+      "Ya! inilah yang terlihat jelas dari perbedaan Customer Journey Mapping pada 2 kondisi yang ada",
+      "Kesimpulan ini tidak benar jika mengacu pada Customer Journey Mapping"
+    ],
+    "answers": [1]
   },
   {
     "type": "plain",
-    "image": null,
-    "content": "",
+    "image": "images/14.png",
+    "content": "Dengan temuan ini, Andi mempresentasikannya kepada tim *senior management* di meeting berikutnya. Semua orang merasa senang dengan temuan yang dibuat oleh tim Andi, karena mereka jadi tahu apa yg perlu dilakukan untuk bisa *survive* dalam kondisi pandemi.",
     "id": "14",
     "lesson_id": "customer_journey_mapping"
   },
   {
     "type": "plain",
     "image": null,
-    "content": "",
+    "content": "Begitulah cara **Customer Journey Mapping** membantu tim Produk dan Bisnis untuk melakukan *improvement* dari suatu produk atau layanan.\n\nTerlepas dari apakah solusi yang diambil benar atau salah, setidaknya *tool* ini bisa membantu tim untuk lebih berempati pada penggunanya sebelum mengambil kesimpulan.",
     "id": "15",
     "lesson_id": "customer_journey_mapping"
   }
