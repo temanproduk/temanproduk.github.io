@@ -3,7 +3,7 @@
     "label": "Problem Discovery",
     "id": "problem_discovery",
     "curriculum_id": "product_development",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "description": "Dalam membangun sebuah produk, baik digital maupun yang berupa fisik, kita harus selalu memulai dari kebutuhan penggunanya. Umumnya kebutuhan lahir dari suatu permasalah yang mereka hadapi.",
     "disable": false
   },
   {
@@ -18,13 +18,27 @@
     "id": "prioritization",
     "curriculum_id": "product_development",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
-    "disable": false
+    "disable": true
   },
   {
     "label": "Project Management",
     "id": "project_management",
     "curriculum_id": "product_development",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
-    "disable": false
+    "disable": true
+  },
+  {
+    "label": "Go-to-market Strategy",
+    "id": "gtm_strategy",
+    "curriculum_id": "product_development",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "disable": true
+  },
+  {
+    "label": "Data Analysis",
+    "id": "data_analysis",
+    "curriculum_id": "product_development",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "disable": true
   }
 ]
