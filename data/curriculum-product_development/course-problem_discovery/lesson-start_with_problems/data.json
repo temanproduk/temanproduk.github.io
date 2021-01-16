@@ -16,7 +16,7 @@
   {
     "type": "mix_match",
     "image": null,
-    "content": "Sehari-hari, Olivia diminta oleh senior-nya untuk membuat tampilan UI design dari fitur diinginkan. Sebagai seorang designer berpengalaman, Olivia membuat tampilan design hi-fi dengan cepat, untuk di hand-over ke tim Programmer.",
+    "content": "Sehari-hari, Olivia diminta oleh senior-nya untuk membuat tampilan UI design dari fitur diinginkan. Sebagai seorang designer berpengalaman, Olivia membuat tampilan design hi-fi dengan cepat, untuk di hand-over ke tim Programmer.\n\nPasangkan istilah berikut dengan definisi-nya yang paling tepat:",
     "id": "3",
     "lesson_id": "start_with_problems",
     "terms": [
@@ -66,6 +66,12 @@
       "Heroes",
       "Hacker"
     ],
+    "choices_definition":[
+      "Peran ini berusaha membuka koneksi, mencari partner dan pendanaan buat perusahaan",
+      "Peran ini berusaha memahami mengenai pengguna produk nya dan membuat tampilan yang baik untuk solusinya",
+      "Nope! Sayangnya sebuah startup tidak membutuhkan pahlawan super yang bekerja sendirian",
+      "Peran ini berusaha merealisasikan apa yang diharapkan oleh perusahaan dalam bentuk teknis"
+    ],
     "answers": [0,1,3]
   },
   {
@@ -86,7 +92,7 @@
     "type": "boolean",
     "image": null,
     "content": null,
-    "question": null,
+    "question": "Menurutmu, dari beberapa pengembangan *fitur* produk berikut, mana saja yang termasuk dalam solusi untuk suatu problem yang valid dan yang kurang jelas?",
     "questions": [
       {
         "title": "Fitur deteksi humidity pada low-cost Handphone",
@@ -153,6 +159,20 @@
       "Interview Pengguna",
       "Survey Pengguna"
     ],
+    "choices_definition":[
+      "Pastinya! Pengguna yang senang maupun kecewa biasanya mengungkapkan pendapatnya melalui Ulasan App Store",
+      "Bener nih. Seringkali diskusi di social media berisi masukan positif untuk produk kita",
+      "Sayangnya, meskipun CEO mempunyai power yang besar di perusahaan, mendengarkan pendapatnya tidak banyak membantu dalam memahami kebutuhan pengguna",
+      "Tentu! Terkadang kita perlu pro aktif untuk meminta pendapat pengguna secara langsung",
+      "Bisa.. Sebuah polling atau survey bisa menggambarkan kebutuhan pengguna"
+    ],
     "answers": [0,1,3,4]
+  },
+  {
+    "type": "plain",
+    "image": null,
+    "content": "Dari hasil analisis yang dilakukan, sekarang Olivia lebih memahami siapa target penggunanya dan apa permasalahan mereka.\nBeberapa pengguna menginstall **Toko Teman** karena mengalami kesulitan dalam mencari game second di aplikasi kompetitor. Rupanya mereka menginstal aplikasi ini karena tertarik dengan iklan digital **Toko Teman** di instagram yang menampilkan sebuah “game bekas” pada bannernya.\n\nSang CEO pun senang dengan hasil analisis Olivia. Tidak lama, dia dipercaya untuk membuat analisa dalam pengembangan produk **Toko Teman** ke depannya.",
+    "id": "13",
+    "lesson_id": "start_with_problems"
   }
 ]
