@@ -1,0 +1,16 @@
+[
+  {
+    "type": "plain",
+    "image": null,
+    "content": "Text User Research",
+    "id": "1",
+    "lesson_id": "user_research"
+  },
+  {
+    "type": "plain",
+    "image": null,
+    "content": "Text User Research 2",
+    "id": "2",
+    "lesson_id": "user_research"
+  }
+]

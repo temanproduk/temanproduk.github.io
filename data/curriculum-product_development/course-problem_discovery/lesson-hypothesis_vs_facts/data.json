@@ -1,0 +1,23 @@
+[
+  {
+    "type": "plain",
+    "image": null,
+    "content": "Text Hypotheses",
+    "id": "1",
+    "lesson_id": "hypothesis_vs_facts"
+  },
+  {
+    "type": "plain",
+    "image": null,
+    "content": "Text Hypotheses 2",
+    "id": "2",
+    "lesson_id": "hypothesis_vs_facts"
+  },
+  {
+    "type": "plain",
+    "image": null,
+    "content": "Text Hypotheses 3",
+    "id": "3",
+    "lesson_id": "hypothesis_vs_facts"
+  }
+]
