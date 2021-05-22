@@ -84,16 +84,20 @@
         "correct_order": 1
       },
       {
-        "text":"berperan sebagai seseorang yang hangat dan positif yang berfokus terhadap nilai ide. Anggap saja dia bertindak sebagai penyeimbang pemikiran skeptis dari peran Black Hat",
+        "text": "berperan sebagai orang yang kritis dan skeptis terhadap ide-ide mengedepankan aspek kehati-hatian dari sebuah ide dan solusi.",
         "correct_order": 2
       },
       {
+        "text":"berperan sebagai seseorang yang hangat dan positif yang berfokus terhadap nilai ide. Anggap saja dia bertindak sebagai penyeimbang pemikiran skeptis dari peran Black Hat",
+        "correct_order": 3
+      },
+      {
         "text":"berperan sebagai seorang yang menghasilkan kreativitas dan ide-ide baru.",
-        "correct_order":3
+        "correct_order": 4
       },
       {
         "text":"berperan sebagai seseorang yang pragmatis dan menetapkan agenda yang sudah ditetapkan pada awal diskusi, serta merumuskan dan meringkas hasil akhir pada sesi brainstorming.",
-        "correct_order": 4
+        "correct_order": 5
       }
     ],
     "lesson_id": "brainstorming"
