@@ -31,7 +31,7 @@
     "type": "choice",
     "image": null,
     "content": "Olivia mencoba mengusulkan kepada senior Olivia untuk melakukan aktivitas brainstorming dengan para karyawan tim produk marketing dengan bantuan dari senior Olivia.",
-    "id": "4",
+    "id": "5",
     "lesson_id": "brainstorming",
     "question": "Apa saja yang 8 aturan yang dibutuhkan untuk melakukan aktivitas brainstorming?",
     "choices": [
@@ -50,7 +50,7 @@
     "type": "choice",
     "image": null,
     "content": "Melakukan brainstorming secara kolektif/grup yang benar-benar produktif seperti menjadikan kita kelompok pemenang. Tim yang bersemangat, berhasil, dan mencapai goal yang telah disepakati. Namun, brainstorming seringkali berakhir tidak sesuai dengan apa yang diekspektasikan, seringkali juga kita merasa tidak produktif hingga terjadi gesekan yang terjadi di brainstorming yang berlarut-larut.",
-    "id": "4",
+    "id": "6",
     "lesson_id": "brainstorming",
     "question": "Menurut kamu, faktor mana saja yang menghambat dalam sesi brainstorming?",
     "choices": [
@@ -62,9 +62,10 @@
     "answers": [0,1,2]
   },
   {
-    "type":"mixmatch",
+    "type":"mix_match",
     "image": "images/7.png",
-    "contents": "Pada saat akan memulai sesi brainstorming Olivia mengusulkan kepada senior Olivia untuk membagikan peran-peran yang akan terlibat dalam sesi brainstorming. Olivia mengusulkan untuk menggunakan teknik *Six Thinking Hats*. Menurut Olivia, ini akan menjadikan sesi brainstorming menjadi lebih interaktif. ",
+    "id": "7",
+    "content": "Pada saat akan memulai sesi brainstorming Olivia mengusulkan kepada senior Olivia untuk membagikan peran-peran yang akan terlibat dalam sesi brainstorming. Olivia mengusulkan untuk menggunakan teknik *Six Thinking Hats*. Menurut Olivia, ini akan menjadikan sesi brainstorming menjadi lebih interaktif. ",
     "terms":
     [
       "White Hat",
@@ -103,13 +104,14 @@
     "type": "plain",
     "image": "images/8.png",
     "content": "Kemudian Olivia memaparkan kepada senior Olivia untuk memilih teknik tim brainstorming yang akan digunakan. Ada beberapa pendekatan dalam brainstorming diantaranya brainwriting, starbursting, round robin brainstorming, figuring brainstorming.",
-    "id": "5",
+    "id": "8",
     "lesson_id": "brainstorming"
   },
   {
-    "type":"mixmatch",
+    "type":"mix_match",
     "image":null,
-    "contents": "Teknik-teknik dalam brainstorming: ",
+    "id": "9",
+    "content": "Teknik-teknik dalam brainstorming: ",
     "terms":
     [
       "Brainwriting",
@@ -142,7 +144,7 @@
     "type": "choice",
     "image": null,
     "content": "Saat akan melakukan brainstorming senior Olivia memberitahu ke Olivia bahwa tim yang akan mengikuti brainstorming merupakan orang-orang baru melewati masa probation, yang mana masih belum cukup mengenal karakteristik satu sama lain. Disisi lain, ada sebagian ternyata seorang introvert, untuk menghindari suasana hening senior Olivia meminta pendapat Olivia untuk menggunakan salah satu teknik tersebut. ",
-    "id": "4",
+    "id": "10",
     "lesson_id": "brainstorming",
     "question": "Mana yang cocok?",
     "choices": [
@@ -154,8 +156,9 @@
     "answers": [2]
   },
   {
-    "type":"mixmatch",
+    "type":"mix_match",
     "image":null,
+    "id": "11",
     "contents": "Manfaat melakukan brainstorming: ",
     "terms":
     [
@@ -189,7 +192,7 @@
     "type": "plain",
     "image": "images/12.png",
     "content": "Pada akhirnya, setelah melakukan brainstorming untuk mengedukasi merchant agar menggunakan foto-foto produk yang baik saat mengupload di aplikasi. Tim malah mendapatkan ide-ide baru untuk memecahkan masalah tersebut pada kategori yang lain seperti manajemen foto studio dan gudang untuk merchant yang tidak ingin repot-repot untuk mengambil foto produk dan penyimpanan produknya. ",
-    "id": "6",
+    "id": "12",
     "lesson_id": "brainstorming"
   }
 ]
