@@ -2,20 +2,20 @@
   {
     "type": "plain",
     "image": "images/1.png",
-    "content": "SebagaiMemasuki bulan kedelapan Olivia bekerja di **Toko Teman**, sebuah startup early stage yang berdiri sejak 1,5 tahun lalu. Di sini, Olivia bekerja sebagai UI Designer untuk aplikasi marketplace yang dikembangkan perusahaan.",
+    "content": "Memasuki bulan kedelapan Olivia bekerja di **Toko Teman**, sebuah startup early stage yang berdiri sejak 1,5 tahun lalu. Di sini, Olivia bekerja sebagai UI Designer untuk aplikasi marketplace yang dikembangkan perusahaan.",
     "id": "1",
     "lesson_id": "brainstorming"
   },
   {
     "type": "plain",
-    "image": "images/2.png",
+    "image": null,
     "content": "Dua bulan yang lalu Olivia ditugaskan oleh senior Olivia untuk melakukan re-desain user interface pada aplikasi **Toko Teman**. Hasil kerja Olivia mendapatkan apresiasi dari senior Olivia yang sempat skeptis terhadap hasil kerja dari Olivia. Disisi lain, CEO **Toko Teman** mulai menaruh kepercayaan kepada Olivia untuk menyelesaikan masalah-masalah baru yang akan dihadapi oleh aplikasi **Toko Teman** di bawah supervisi dari senior Olivia.",
     "id": "2",
     "lesson_id": "brainstorming"
   },
   {
     "type": "plain",
-    "image": "images/3.png",
+    "image": null,
     "content": "Masalah mulai muncul pada bulan kesembilan, meskipun user mulai berdatangan dari digital ads yang telah dipasang oleh **Toko Teman** dan jumlah daily active user mulai mengalami peningkatan, namun pada bulan kesembilan hanya terjadi sedikit transaksi yang terjadi pada aplikasi **Toko Teman**. Hal ini menyebabkan para karyawan perusahaan mulai bertanya-tanya. Apakah ada sesuatu yang salah dengan aplikasinya.",
     "id": "3",
     "lesson_id": "brainstorming"
@@ -63,7 +63,7 @@
   },
   {
     "type":"mixmatch",
-    "image":null,
+    "image": "images/7.png",
     "contents": "Pada saat akan memulai sesi brainstorming Olivia mengusulkan kepada senior Olivia untuk membagikan peran-peran yang akan terlibat dalam sesi brainstorming. Olivia mengusulkan untuk menggunakan teknik *Six Thinking Hats*. Menurut Olivia, ini akan menjadikan sesi brainstorming menjadi lebih interaktif. ",
     "terms":
     [
@@ -101,7 +101,7 @@
   },
   {
     "type": "plain",
-    "image": "images/5.png",
+    "image": "images/8.png",
     "content": "Kemudian Olivia memaparkan kepada senior Olivia untuk memilih teknik tim brainstorming yang akan digunakan. Ada beberapa pendekatan dalam brainstorming diantaranya brainwriting, starbursting, round robin brainstorming, figuring brainstorming.",
     "id": "5",
     "lesson_id": "brainstorming"
@@ -187,7 +187,7 @@
   },
   {
     "type": "plain",
-    "image": "images/6.png",
+    "image": "images/12.png",
     "content": "Pada akhirnya, setelah melakukan brainstorming untuk mengedukasi merchant agar menggunakan foto-foto produk yang baik saat mengupload di aplikasi. Tim malah mendapatkan ide-ide baru untuk memecahkan masalah tersebut pada kategori yang lain seperti manajemen foto studio dan gudang untuk merchant yang tidak ingin repot-repot untuk mengambil foto produk dan penyimpanan produknya. ",
     "id": "6",
     "lesson_id": "brainstorming"
