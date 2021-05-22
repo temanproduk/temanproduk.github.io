@@ -66,8 +66,7 @@
     "image": "images/7.png",
     "id": "7",
     "content": "Pada saat akan memulai sesi brainstorming Olivia mengusulkan kepada senior Olivia untuk membagikan peran-peran yang akan terlibat dalam sesi brainstorming. Olivia mengusulkan untuk menggunakan teknik *Six Thinking Hats*. Menurut Olivia, ini akan menjadikan sesi brainstorming menjadi lebih interaktif. ",
-    "terms":
-    [
+    "terms": [
       "White Hat",
       "Red Hat",
       "Black Hat",
@@ -75,27 +74,26 @@
       "Green Hat",
       "Blue Hat"
     ],
-    "definitions":
-    [
+    "definitions": [
       {
         "text":"berperan untuk mempertimbangkan fakta dan angka obyektif dan digunakan untuk menyamaratakan pemahaman pada awal diskusi di dalam brainstorming tentang isu-isu yang akan dihadapi.",
-        "order": 0
+        "correct_order": 0
       },
       {
         "text":"berperan untuk memantik sebuah gairah terhadap diskusi yang ada dan mendorong tim untuk mengekspresikan ide-ide secara bebas.",
-        "order": 1
+        "correct_order": 1
       },
       {
         "text":"berperan sebagai seseorang yang hangat dan positif yang berfokus terhadap nilai ide. Anggap saja dia bertindak sebagai penyeimbang pemikiran skeptis dari peran Black Hat",
-        "order": 2
+        "correct_order": 2
       },
       {
         "text":"berperan sebagai seorang yang menghasilkan kreativitas dan ide-ide baru.",
-        "order":3
+        "correct_order":3
       },
       {
         "text":"berperan sebagai seseorang yang pragmatis dan menetapkan agenda yang sudah ditetapkan pada awal diskusi, serta merumuskan dan meringkas hasil akhir pada sesi brainstorming.",
-        "order": 4
+        "correct_order": 4
       }
     ],
     "lesson_id": "brainstorming"
@@ -112,30 +110,28 @@
     "image":null,
     "id": "9",
     "content": "Teknik-teknik dalam brainstorming: ",
-    "terms":
-    [
+    "terms": [
       "Brainwriting",
       "Starbursting",
       "Round robin brainstorming",
       "Figuring brainstorming"
     ],
-    "definitions":
-    [
+    "definitions": [
       {
         "text":"Prinsip dalam teknik ini adalah memisahkan ide dari diskusi. Pemimpin diskusi membagikan topik kepada tim kemudian anggota tim secara individu menuliskan ide-ide mereka. Teknik ini akan efektif jika anggota tim sebagian besar bersifat seorang introvert dan mudah terpengaruh oleh pendapat orang lain.",
-        "order": 0
+        "correct_order": 0
       },
       {
         "text":"Teknik ini berfokus pada pembentukan pertanyaan daripada jawaban. Tim kemudian akan ditantang untuk mengajukan pertanyaan sebanyak mungkin tentang sebuah topik. Selain itu, teknik ini memastikan semua aspek dalam proyek telah diperhatikan dengan jelas sebelum akhirnya mengeksekusinya.",
-        "order": 1
+        "correct_order": 1
       },
       {
         "text":"Teknik ini cukup menarik, dengan mengumpulkan tim dalam sebuah lingkaran. Kemudian, ketika topik telah dibagikan, setiap orang secara bergantian untuk diminta ide-idenya. Hal ini dilakukan sampai mendapatkan giliran, kemudian fasilitator mencatat semua ide yang ada dan berulah mengevaluasi. Terlebih lagi, teknik ini memastikan semua orang untuk berkontribusi.",
-        "order": 2
+        "correct_order": 2
       },
       {
         "text":"Teknik ini dilakukan untuk dengan membayangkan menjadi seorang tokoh atau figur. Kita dituntut untuk membayangkan bagaimana kita berada posisi orang tersebut. Menempatkan diri pada seorang tokoh, dapat membuat perspektif-perspektif baru dan memunculkan ide-ide segar",
-        "order":3
+        "correct_order":3
       }
     ],
     "lesson_id": "brainstorming"
@@ -160,30 +156,28 @@
     "image":null,
     "id": "11",
     "contents": "Manfaat melakukan brainstorming: ",
-    "terms":
-    [
+    "terms": [
       "Meningkatkan moral dalam tim",
       "Mempromosikan cara berpikir kreatif",
       "Menyatukan beragam ide",
       "Menghasilkan banyak ide"
     ],
-    "definitions":
-    [
+    "definitions": [
       {
         "text":"Pada saat melakukan brainstorming, tim akan bekerja kolaboratif untuk sebuah tujuan tertentu dalam lingkungan kreatif dan suportif. Menyumbangkan saran secara langsung dan bertatap muka dapat meningkatkan ikatan dalam tim.",
-        "order": 0
+        "correct_order": 0
       },
       {
         "text":"Seringkali orang-orang didorong untuk menyelesaikan task pekerjaan tanpa adanya waktu untuk berhenti sejenak. Menyisihkan waktu spesifik untuk melakukan aktivitas brainstorming sangatlah penting untuk mengembangkan kekreatifan. Tradisional meeting menuntut orang-orang untuk memberikan pertanyaan dan jawaban. Sedangkan, brainstorming mengizinkan orang-orang untuk berpikir secara bebas",
-        "order": 1
+        "correct_order": 1
       },
       {
         "text":"Melakukan brainstorming secara kolektif lebih baik daripada melakukan brainstorming sendiri. Karena setiap orang memiliki kekuatan sendiri-sendiri untuk menyumbangkan ide dan perspektif yang berbeda.",
-        "order": 2
+        "correct_order": 2
       },
       {
         "text":"Seperti kata pepatah lama, dua kepala lebih baik daripada satu. Jumlah ide yang banyak menjadi alasan yang kuat untuk tingkat efektivitasnya yang beragam. Memang, tidak semua ide menjadi pemenang, namun ide yang dihasilkan oleh tim akan berharga untuk dikejar. ",
-        "order":3
+        "correct_order":3
       }
     ],
     "lesson_id": "brainstorming"
