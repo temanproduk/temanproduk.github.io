@@ -8,7 +8,7 @@
   },
   {
     "type": "plain",
-    "image": null,
+    "image": "images/2.png",
     "content": "Aplikasi **Toko Teman** sudah launching sejak 9 bulan yang lalu, namun saat ini penggunanya masih sedikit. Kurang lebih hanya 100+ downloads di Android Play Store.\n\n Analisis requirement produk **Toko Teman** dipercayakan pada senior Olivia, seorang ex-Marketing yang berambisi untuk membuat fitur aplikasi yang kompleks dan tidak kalah canggih dengan aplikasi kompetitor yang sudah lama berdiri.",
     "id": "2",
     "lesson_id": "start_with_problems"

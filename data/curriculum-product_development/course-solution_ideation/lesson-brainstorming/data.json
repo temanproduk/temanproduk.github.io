@@ -1,0 +1,195 @@
+[
+  {
+    "type": "plain",
+    "image": "images/1.png",
+    "content": "SebagaiMemasuki bulan kedelapan Olivia bekerja di **Toko Teman**, sebuah startup early stage yang berdiri sejak 1,5 tahun lalu. Di sini, Olivia bekerja sebagai UI Designer untuk aplikasi marketplace yang dikembangkan perusahaan.",
+    "id": "1",
+    "lesson_id": "brainstorming"
+  },
+  {
+    "type": "plain",
+    "image": "images/2.png",
+    "content": "Dua bulan yang lalu Olivia ditugaskan oleh senior Olivia untuk melakukan re-desain user interface pada aplikasi **Toko Teman**. Hasil kerja Olivia mendapatkan apresiasi dari senior Olivia yang sempat skeptis terhadap hasil kerja dari Olivia. Disisi lain, CEO **Toko Teman** mulai menaruh kepercayaan kepada Olivia untuk menyelesaikan masalah-masalah baru yang akan dihadapi oleh aplikasi **Toko Teman** di bawah supervisi dari senior Olivia.",
+    "id": "2",
+    "lesson_id": "brainstorming"
+  },
+  {
+    "type": "plain",
+    "image": "images/3.png",
+    "content": "Masalah mulai muncul pada bulan kesembilan, meskipun user mulai berdatangan dari digital ads yang telah dipasang oleh **Toko Teman** dan jumlah daily active user mulai mengalami peningkatan, namun pada bulan kesembilan hanya terjadi sedikit transaksi yang terjadi pada aplikasi **Toko Teman**. Hal ini menyebabkan para karyawan perusahaan mulai bertanya-tanya. Apakah ada sesuatu yang salah dengan aplikasinya.",
+    "id": "3",
+    "lesson_id": "brainstorming"
+  },
+  {
+    "type": "plain",
+    "image": "images/4.png",
+    "content": "Setelah dilakukan sebuah analisis dari mesin analitik yang terpasang pada aplikasi, ternyata user pada aplikasi hanya berakhir ke tahap aktivitas melihat detail dari “game bekas” saja tanpa melanjutkan aktivitas ke proses checkout produk-produk yang masuk ke kategori “game bekas”. Olivia mencoba untuk membuka aplikasi **Toko Teman**, ternyata sebagian besar produk-produk yang diunggah oleh merchant menampilkan gambar-gambar dengan kualitas rendah dan kurang menarik minat pembeli untuk melakukan pembelian.",
+    "id": "4",
+    "lesson_id": "brainstorming"
+  },
+  {
+    "type": "choice",
+    "image": null,
+    "content": "Olivia mencoba mengusulkan kepada senior Olivia untuk melakukan aktivitas brainstorming dengan para karyawan tim produk marketing dengan bantuan dari senior Olivia.",
+    "id": "4",
+    "lesson_id": "brainstorming",
+    "question": "Apa saja yang 8 aturan yang dibutuhkan untuk melakukan aktivitas brainstorming?",
+    "choices": [
+      "Menetapkan batas waktu",
+      "Mulai dengan sebuah target masalah",
+      "Menahan diri untuk menilai",
+      "Mendorong ide-ide aneh",
+      "Menargetkan banyak jumlah ide",
+      "Mengembangkan ide orang lain",
+      "Tetap visualkan",
+      "Mengizinkan percakapan satu persatu"
+    ],
+    "answers": [0,1,2,3,4,5,6,7,8]
+  },
+  {
+    "type": "choice",
+    "image": null,
+    "content": "Melakukan brainstorming secara kolektif/grup yang benar-benar produktif seperti menjadikan kita kelompok pemenang. Tim yang bersemangat, berhasil, dan mencapai goal yang telah disepakati. Namun, brainstorming seringkali berakhir tidak sesuai dengan apa yang diekspektasikan, seringkali juga kita merasa tidak produktif hingga terjadi gesekan yang terjadi di brainstorming yang berlarut-larut.",
+    "id": "4",
+    "lesson_id": "brainstorming",
+    "question": "Menurut kamu, faktor mana saja yang menghambat dalam sesi brainstorming?",
+    "choices": [
+      "Seseorang yang dominan",
+      "Menahan-nahan ide-ide",
+      "Keheningan dalam brainstorming",
+      "Tim yang bersemangat"
+    ],
+    "answers": [0,1,2]
+  },
+  {
+    "type":"mixmatch",
+    "image":null,
+    "contents": "Pada saat akan memulai sesi brainstorming Olivia mengusulkan kepada senior Olivia untuk membagikan peran-peran yang akan terlibat dalam sesi brainstorming. Olivia mengusulkan untuk menggunakan teknik *Six Thinking Hats*. Menurut Olivia, ini akan menjadikan sesi brainstorming menjadi lebih interaktif. ",
+    "terms":
+    [
+      "White Hat",
+      "Red Hat",
+      "Black Hat",
+      "Yellow Hat",
+      "Green Hat",
+      "Blue Hat"
+    ],
+    "definitions":
+    [
+      {
+        "text":"berperan untuk mempertimbangkan fakta dan angka obyektif dan digunakan untuk menyamaratakan pemahaman pada awal diskusi di dalam brainstorming tentang isu-isu yang akan dihadapi.",
+        "order": 0
+      },
+      {
+        "text":"berperan untuk memantik sebuah gairah terhadap diskusi yang ada dan mendorong tim untuk mengekspresikan ide-ide secara bebas.",
+        "order": 1
+      },
+      {
+        "text":"berperan sebagai seseorang yang hangat dan positif yang berfokus terhadap nilai ide. Anggap saja dia bertindak sebagai penyeimbang pemikiran skeptis dari peran Black Hat",
+        "order": 2
+      },
+      {
+        "text":"berperan sebagai seorang yang menghasilkan kreativitas dan ide-ide baru.",
+        "order":3
+      },
+      {
+        "text":"berperan sebagai seseorang yang pragmatis dan menetapkan agenda yang sudah ditetapkan pada awal diskusi, serta merumuskan dan meringkas hasil akhir pada sesi brainstorming.",
+        "order": 4
+      }
+    ],
+    "lesson_id": "brainstorming"
+  },
+  {
+    "type": "plain",
+    "image": "images/5.png",
+    "content": "Kemudian Olivia memaparkan kepada senior Olivia untuk memilih teknik tim brainstorming yang akan digunakan. Ada beberapa pendekatan dalam brainstorming diantaranya brainwriting, starbursting, round robin brainstorming, figuring brainstorming.",
+    "id": "5",
+    "lesson_id": "brainstorming"
+  },
+  {
+    "type":"mixmatch",
+    "image":null,
+    "contents": "Teknik-teknik dalam brainstorming: ",
+    "terms":
+    [
+      "Brainwriting",
+      "Starbursting",
+      "Round robin brainstorming",
+      "Figuring brainstorming"
+    ],
+    "definitions":
+    [
+      {
+        "text":"Prinsip dalam teknik ini adalah memisahkan ide dari diskusi. Pemimpin diskusi membagikan topik kepada tim kemudian anggota tim secara individu menuliskan ide-ide mereka. Teknik ini akan efektif jika anggota tim sebagian besar bersifat seorang introvert dan mudah terpengaruh oleh pendapat orang lain.",
+        "order": 0
+      },
+      {
+        "text":"Teknik ini berfokus pada pembentukan pertanyaan daripada jawaban. Tim kemudian akan ditantang untuk mengajukan pertanyaan sebanyak mungkin tentang sebuah topik. Selain itu, teknik ini memastikan semua aspek dalam proyek telah diperhatikan dengan jelas sebelum akhirnya mengeksekusinya.",
+        "order": 1
+      },
+      {
+        "text":"Teknik ini cukup menarik, dengan mengumpulkan tim dalam sebuah lingkaran. Kemudian, ketika topik telah dibagikan, setiap orang secara bergantian untuk diminta ide-idenya. Hal ini dilakukan sampai mendapatkan giliran, kemudian fasilitator mencatat semua ide yang ada dan berulah mengevaluasi. Terlebih lagi, teknik ini memastikan semua orang untuk berkontribusi.",
+        "order": 2
+      },
+      {
+        "text":"Teknik ini dilakukan untuk dengan membayangkan menjadi seorang tokoh atau figur. Kita dituntut untuk membayangkan bagaimana kita berada posisi orang tersebut. Menempatkan diri pada seorang tokoh, dapat membuat perspektif-perspektif baru dan memunculkan ide-ide segar",
+        "order":3
+      }
+    ],
+    "lesson_id": "brainstorming"
+  },
+  {
+    "type": "choice",
+    "image": null,
+    "content": "Saat akan melakukan brainstorming senior Olivia memberitahu ke Olivia bahwa tim yang akan mengikuti brainstorming merupakan orang-orang baru melewati masa probation, yang mana masih belum cukup mengenal karakteristik satu sama lain. Disisi lain, ada sebagian ternyata seorang introvert, untuk menghindari suasana hening senior Olivia meminta pendapat Olivia untuk menggunakan salah satu teknik tersebut. ",
+    "id": "4",
+    "lesson_id": "brainstorming",
+    "question": "Mana yang cocok?",
+    "choices": [
+      "Starbursting",
+      "Round Robin brainstorming",
+      "Brainwriting",
+      "Figuring brainstorming "
+    ],
+    "answers": [2]
+  },
+  {
+    "type":"mixmatch",
+    "image":null,
+    "contents": "Manfaat melakukan brainstorming: ",
+    "terms":
+    [
+      "Meningkatkan moral dalam tim",
+      "Mempromosikan cara berpikir kreatif",
+      "Menyatukan beragam ide",
+      "Menghasilkan banyak ide"
+    ],
+    "definitions":
+    [
+      {
+        "text":"Pada saat melakukan brainstorming, tim akan bekerja kolaboratif untuk sebuah tujuan tertentu dalam lingkungan kreatif dan suportif. Menyumbangkan saran secara langsung dan bertatap muka dapat meningkatkan ikatan dalam tim.",
+        "order": 0
+      },
+      {
+        "text":"Seringkali orang-orang didorong untuk menyelesaikan task pekerjaan tanpa adanya waktu untuk berhenti sejenak. Menyisihkan waktu spesifik untuk melakukan aktivitas brainstorming sangatlah penting untuk mengembangkan kekreatifan. Tradisional meeting menuntut orang-orang untuk memberikan pertanyaan dan jawaban. Sedangkan, brainstorming mengizinkan orang-orang untuk berpikir secara bebas",
+        "order": 1
+      },
+      {
+        "text":"Melakukan brainstorming secara kolektif lebih baik daripada melakukan brainstorming sendiri. Karena setiap orang memiliki kekuatan sendiri-sendiri untuk menyumbangkan ide dan perspektif yang berbeda.",
+        "order": 2
+      },
+      {
+        "text":"Seperti kata pepatah lama, dua kepala lebih baik daripada satu. Jumlah ide yang banyak menjadi alasan yang kuat untuk tingkat efektivitasnya yang beragam. Memang, tidak semua ide menjadi pemenang, namun ide yang dihasilkan oleh tim akan berharga untuk dikejar. ",
+        "order":3
+      }
+    ],
+    "lesson_id": "brainstorming"
+  },
+  {
+    "type": "plain",
+    "image": "images/6.png",
+    "content": "Pada akhirnya, setelah melakukan brainstorming untuk mengedukasi merchant agar menggunakan foto-foto produk yang baik saat mengupload di aplikasi. Tim malah mendapatkan ide-ide baru untuk memecahkan masalah tersebut pada kategori yang lain seperti manajemen foto studio dan gudang untuk merchant yang tidak ingin repot-repot untuk mengambil foto produk dan penyimpanan produknya. ",
+    "id": "6",
+    "lesson_id": "brainstorming"
+  }
+]

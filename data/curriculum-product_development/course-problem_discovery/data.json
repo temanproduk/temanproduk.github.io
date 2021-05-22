@@ -18,27 +18,27 @@
     "id": "user_research",
     "course_id": "problem_discovery",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
-    "disable": false
+    "disable": true
   },
   {
     "label": "Market Research",
     "id": "market_research",
     "course_id": "problem_discovery",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
-    "disable": false
+    "disable": true
   },
   {
     "label": "Operational Research",
     "id": "operational_research",
     "course_id": "problem_discovery",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
-    "disable": false
+    "disable": true
   },
   {
     "label": "Hypothesis vs Facts",
     "id": "hypothesis_vs_facts",
     "course_id": "problem_discovery",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
-    "disable": false
+    "disable": true
   }
 ]

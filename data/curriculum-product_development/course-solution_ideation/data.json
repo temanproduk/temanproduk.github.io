@@ -1,19 +1,5 @@
 [
   {
-    "label": "Value Proposition Canvas",
-    "id": "value_proposition_canvas",
-    "course_id": "solution_ideation",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
-    "disable": false
-  },
-  {
-    "label": "Competitor Features Analysis",
-    "id": "competitor_features_analysis",
-    "course_id": "solution_ideation",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
-    "disable": false
-  },
-  {
     "label": "Brainstorming",
     "id": "brainstorming",
     "course_id": "solution_ideation",
@@ -21,31 +7,45 @@
     "disable": false
   },
   {
+    "label": "Value Proposition Canvas",
+    "id": "value_proposition_canvas",
+    "course_id": "solution_ideation",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "disable": true
+  },
+  {
+    "label": "Competitor Features Analysis",
+    "id": "competitor_features_analysis",
+    "course_id": "solution_ideation",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
+    "disable": true
+  },
+  {
     "label": "Design Sprint",
     "id": "design_sprint",
     "course_id": "solution_ideation",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
-    "disable": false
+    "disable": true
   },
   {
     "label": "Usability Test",
     "id": "usability_test",
     "course_id": "solution_ideation",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
-    "disable": false
+    "disable": true
   },
   {
     "label": "Solution Sandboxing",
     "id": "solution_sandboxing",
     "course_id": "solution_ideation",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
-    "disable": false
+    "disable": true
   },
   {
     "label": "Conducting Product Experiment",
     "id": "conducting_product_experiment",
     "course_id": "solution_ideation",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras semper nisl nec mauris mattis, congue feugiat magna efficitur.",
-    "disable": false
+    "disable": true
   }
 ]
